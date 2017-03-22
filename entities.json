@@ -1,0 +1,16 @@
+[
+	{
+		"id":"0",
+		"epic": "Item 1",
+		"status":"green",
+		"jql": "filter=27718",
+		"epiclink":"PUR-215"
+	},
+	{
+		"id":"1",
+		"epic": "Item 2",
+		"status":"red",
+		"jql": "filter=32103",
+		"epiclink":"SAL-735"
+	}
+]
